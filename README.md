@@ -3,3 +3,4 @@ https://github.com/keicsqa/cv
 email: rhot7828@gmail.com
 github: @egor
 skills: python, git
+2e31233
